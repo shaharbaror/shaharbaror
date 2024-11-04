@@ -2,6 +2,9 @@
 <h3 align="center">A Fullstack developer that specializes in React</h3>
 
 <br/>
+<br/>
+<br/>
+<br/>
 - 🔭 I’m currently working on **self driving car**
 
 - 🌱 I’m currently learning **C++, C, MySql, Java and Unreal Engine**
