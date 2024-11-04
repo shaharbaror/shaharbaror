@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack developer that specializes in React</h3>
 
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaharbaror" alt="shaharbaror" /></a> </p>
 - 🔭 I’m currently working on **self driving car**
 
 - 🌱 I’m currently learning **C++, C, MySql, Java and Unreal Engine**
